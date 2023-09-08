@@ -53,14 +53,6 @@ Contributions to this project are welcome. If you would like to enhance the webs
 4. Push to your branch: `git push origin feature-name`.
 5. Create a pull request, explaining your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the amazing open-source React and React Router communities.
-- Images and content used in this project are for demonstration purposes only and should not be used for commercial purposes without appropriate permissions.
 
 ## Contact
 
