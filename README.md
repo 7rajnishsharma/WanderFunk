@@ -58,7 +58,7 @@ Contributions to this project are welcome. If you would like to enhance the webs
 
 ## Contact
 
-For any questions or inquiries, please feel free to contact us at [your-email@example.com](mailto:kumar.rajnish1april@example.com).
+For any questions or inquiries, please feel free to contact us at [kumar.rajnish1april@gmail.com](mailto:kumar.rajnish1april@gmail.com).
 
 
 
