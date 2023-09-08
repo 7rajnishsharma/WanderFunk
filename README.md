@@ -1,6 +1,6 @@
 # WanderFunk
 
-Explore India Travel is a web application built with React.js, using React Router to provide an immersive platform for travelers to explore the diverse beauty of India. This repository contains the frontend code for the website.
+**WanderFunk** Travel is a web application built with React.js, using React Router to provide an immersive platform for travelers to explore the diverse beauty of India. This repository contains the frontend code for the website.
 
 **You can explore the live demonstration** https://wanderfunk.netlify.app
 
